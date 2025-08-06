@@ -1,4 +1,4 @@
-# Chatbot-for-a-User-Manual-Coffee-Shop-Edition-
+# Chatbot-for-a-User-Manual-Coffee-Shop-Edition
 
 # AI Chatbot (Coffee Machine Edition)
 
